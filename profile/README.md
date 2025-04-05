@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to **MaLA-LM** (Massive Language Adaptation of Large Language Models)! 🌍
+Welcome to **[MaLA-LM](https://mala-lm.github.io)** (Massive Language Adaptation of Large Language Models)! 🌍
 
 MaLA-LM focuses on adapting large language models to support **hundreds of languages**, including many underrepresented ones. Our models are multilingual, scalable, and optimized for diverse linguistic tasks. Explore our models on [Hugging Face](https://huggingface.co/MaLA-LM).
 
